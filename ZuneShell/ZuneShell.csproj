@@ -6,7 +6,7 @@
         <OutputType>Library</OutputType>
         <AssemblyName>ZuneShell</AssemblyName>
 
-        <TargetFrameworks>net6.0;net6.0-windows10.0.22000;net461</TargetFrameworks>
+        <TargetFrameworks>net6.0-windows10.0.22000</TargetFrameworks>
         <Platforms>x64;x86</Platforms>
 
         <FileAlignment>512</FileAlignment>
